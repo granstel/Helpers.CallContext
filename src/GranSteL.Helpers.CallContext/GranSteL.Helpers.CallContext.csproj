@@ -5,11 +5,12 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>GranSteL</Authors>
     <Description>Just code from http://www.cazzulino.com/callcontext-netstandard-netcore.html</Description>
-    <PackageLicenseUrl>https://github.com/granstel/GranSteL.Helpers.CallContext/blob/master/LICENSE</PackageLicenseUrl>
-    <PackageProjectUrl>https://github.com/granstel/GranSteL.Helpers.CallContext</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/granstel/GranSteL.Helpers.CallContext</RepositoryUrl>
+    <PackageLicenseUrl>https://github.com/granstel/Helpers.CallContext/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/granstel/Helpers.CallContext</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/granstel/Helpers.CallContext</RepositoryUrl>
     <PackageTags>CallContext</PackageTags>
-    <PackageReleaseNotes>Just code from http://www.cazzulino.com/callcontext-netstandard-netcore.html with tests</PackageReleaseNotes>
+    <PackageReleaseNotes>Fix repositury url</PackageReleaseNotes>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
